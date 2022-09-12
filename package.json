@@ -1,0 +1,21 @@
+{
+  "name": "review_backend_api",
+  "version": "1.0.0",
+  "description": "This is the project created for educational purpose",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Full Stack Niraj",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "mongoose": "^6.6.0",
+    "nodemailer": "^6.7.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
